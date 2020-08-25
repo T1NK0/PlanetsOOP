@@ -1,0 +1,13 @@
+C:\Users\mads8340\source\repos\PlaneterneOOP\PlaneterneOOP\bin\Debug\netcoreapp3.1\PlaneterneOOP.exe
+C:\Users\mads8340\source\repos\PlaneterneOOP\PlaneterneOOP\bin\Debug\netcoreapp3.1\PlaneterneOOP.deps.json
+C:\Users\mads8340\source\repos\PlaneterneOOP\PlaneterneOOP\bin\Debug\netcoreapp3.1\PlaneterneOOP.runtimeconfig.json
+C:\Users\mads8340\source\repos\PlaneterneOOP\PlaneterneOOP\bin\Debug\netcoreapp3.1\PlaneterneOOP.runtimeconfig.dev.json
+C:\Users\mads8340\source\repos\PlaneterneOOP\PlaneterneOOP\bin\Debug\netcoreapp3.1\PlaneterneOOP.dll
+C:\Users\mads8340\source\repos\PlaneterneOOP\PlaneterneOOP\bin\Debug\netcoreapp3.1\PlaneterneOOP.pdb
+C:\Users\mads8340\source\repos\PlaneterneOOP\PlaneterneOOP\obj\Debug\netcoreapp3.1\PlaneterneOOP.csprojAssemblyReference.cache
+C:\Users\mads8340\source\repos\PlaneterneOOP\PlaneterneOOP\obj\Debug\netcoreapp3.1\PlaneterneOOP.AssemblyInfoInputs.cache
+C:\Users\mads8340\source\repos\PlaneterneOOP\PlaneterneOOP\obj\Debug\netcoreapp3.1\PlaneterneOOP.AssemblyInfo.cs
+C:\Users\mads8340\source\repos\PlaneterneOOP\PlaneterneOOP\obj\Debug\netcoreapp3.1\PlaneterneOOP.csproj.CoreCompileInputs.cache
+C:\Users\mads8340\source\repos\PlaneterneOOP\PlaneterneOOP\obj\Debug\netcoreapp3.1\PlaneterneOOP.dll
+C:\Users\mads8340\source\repos\PlaneterneOOP\PlaneterneOOP\obj\Debug\netcoreapp3.1\PlaneterneOOP.pdb
+C:\Users\mads8340\source\repos\PlaneterneOOP\PlaneterneOOP\obj\Debug\netcoreapp3.1\PlaneterneOOP.genruntimeconfig.cache
